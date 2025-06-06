@@ -15,7 +15,12 @@
 
 ## 🚀 Demo
 
-> _Add a link or screenshot here if you deploy the site!_
+### preview
+
+![Preview](./assets/images/preview.png)
+
+[Link to the site](https://abhi-zero.github.io/WizardZ/)
+
 
 ## 🛠️ Tech Stack
 
